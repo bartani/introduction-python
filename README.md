@@ -1,5 +1,5 @@
 # introduction-python
-In this project, we will learn the basic source code of Python for further training in machine learning and deep learning.
+In this project, we will teach the basic source code of Python for further training in machine learning and deep learning.
 
 Hi guys
 
